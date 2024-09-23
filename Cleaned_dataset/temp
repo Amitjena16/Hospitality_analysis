@@ -1,0 +1,4 @@
+This file provides an in-depth dataset containing all relevant information about hotel bookings and revenue, offering a complete view of the hotel's financial performance and booking trends. 
+The data has been meticulously cleaned using MySQL to ensure accuracy and reliability. 
+After cleaning, the dataset was used in Power BI to create detailed visualizations that enable a thorough analysis of booking patterns, seasonal trends, and revenue generation. 
+This comprehensive dataset is an invaluable resource for tracking key metrics, understanding customer behaviors, and making data-driven decisions to optimize the hotel's performance.
